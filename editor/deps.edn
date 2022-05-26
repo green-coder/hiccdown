@@ -1,0 +1,23 @@
+{:paths   ["src"]
+
+ :deps    {org.clojure/clojurescript {:mvn/version "1.11.4"}
+           thheller/shadow-cljs      {:mvn/version "2.18.0"}
+           reagent/reagent           {:mvn/version "1.1.1"}
+           ;;girouette/girouette       {:mvn/version "0.0.7"}
+           girouette/girouette       {:git/url "https://github.com/green-coder/girouette.git"
+                                      :deps/root "lib/girouette"
+                                      :sha "d36f1cb6e1d8ab502147f84882e55b51e8023b8e"}
+           taipei.404/hiccdown       {:local/root  ".."}}
+
+ :aliases {; clojure -X:girouette-processor
+           :girouette-processor {:extra-deps {girouette/processor {:git/url "https://github.com/green-coder/girouette.git"
+                                                                   :deps/root "lib/processor"
+                                                                   :sha "d36f1cb6e1d8ab502147f84882e55b51e8023b8e"}}
+                                 :ns-default girouette.processor
+                                 :exec-fn    process
+                                 :exec-args  {:css    {:output-file "public/style/girouette.css"}
+                                              :watch? true}}
+
+           ; clojure -M:outdated --upgrade
+           :outdated            {:extra-deps {com.github.liquidz/antq {:mvn/version "1.6.1"}}
+                                 :main-opts  ["-m" "antq.core"]}}}

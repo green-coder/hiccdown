@@ -1,0 +1,85 @@
+.md h1 {
+  font-size: 7rem;
+}
+
+.md h2 {
+  font-size: 6rem;
+}
+
+.md h3 {
+  font-size: 5.3rem;
+}
+
+.md h4 {
+  font-size: 4.6rem;
+  //margin-left: 2rem;
+}
+
+.md h5 {
+  font-size: 4.2rem;
+  //margin-left: 4rem;
+}
+
+.md h6 {
+  font-size: 3.8rem;
+  //margin-left: 6rem;
+}
+
+.md h1,
+.md h2,
+.md h3,
+.md h4,
+.md h5,
+.md h6,
+.md p {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.md p,
+.md li {
+  font-size: 1.5rem;
+}
+
+.md blockquote {
+  background-color: rgb(221, 247, 204);
+  padding: 1.5rem 0 1rem 2rem;
+  border-left-width: 10px;
+  border-color: rgb(163, 234, 116);
+  margin-bottom: 2rem;
+}
+
+.md code {
+  color: rgb(240, 80, 80);
+  background-color: rgb(255, 232, 232);
+  border-color: rgb(255, 150, 150);
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+  border-width: 1px;
+  border-radius: 0.375rem;
+}
+
+.md pre {
+  background-color: rgb(255, 232, 232);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.md pre > code {
+  font-size: 1.5rem;
+  background-color: transparent;
+  border-width: 0;
+}
+
+.md ul {
+  list-style-type: disc;
+}
+
+.md ol {
+  list-style-type: decimal;
+}
+
+.md li {
+  margin-left: 2rem;
+}
+

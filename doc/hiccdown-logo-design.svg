@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="276"
+   viewBox="0 0 135.46668 73.025001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="hiccdown-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:zoom="1"
+     inkscape:cx="423.5"
+     inkscape:cy="246.5"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     width="800px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.679774,-48.070784)">
+    <g
+       id="g111"
+       transform="matrix(1.1786675,0,0,1.1786675,-7.4468216,-8.5886876)">
+      <g
+         id="g11210"
+         transform="translate(21.946746,19.001391)"
+         inkscape:export-filename="/Users/vincent/Desktop/hiccdown-logo-black.png"
+         inkscape:export-xdpi="176.59753"
+         inkscape:export-ydpi="176.59753">
+        <path
+           d="M 19.86857,70.143451 V 29.069394 h 13.372949 v 5.123403 h -6.903567 v 30.870671 h 6.903567 v 5.079983 z"
+           style="font-weight:bold;font-size:42.3332px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';stroke-width:1.05833"
+           id="path10966" />
+        <g
+           id="g11005"
+           transform="translate(-8.2614743,-3.7176634)">
+          <path
+             d="m 47.585029,60.960404 q 0,-1.845294 1.324269,-3.169563 1.345979,-1.324269 3.2564,-1.324269 1.910421,0 3.212981,1.324269 1.32427,1.324269 1.32427,3.169563 0,1.867002 -1.32427,3.23469 -1.30256,1.345979 -3.212981,1.345979 -1.910421,0 -3.2564,-1.345979 -1.324269,-1.367688 -1.324269,-3.23469 z m 0,-15.001149 q 0,-1.237432 0.607861,-2.257771 0.629571,-1.042048 1.671619,-1.671618 1.042048,-0.629571 2.301189,-0.629571 1.910421,0 3.212981,1.367688 1.32427,1.345979 1.32427,3.191272 0,1.845293 -1.32427,3.191272 -1.30256,1.345978 -3.212981,1.345978 -1.910421,0 -3.2564,-1.345978 -1.324269,-1.345979 -1.324269,-3.191272 z"
+             style="font-weight:bold;font-size:42.3332px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';stroke-width:1.05833"
+             id="path10968" />
+          <path
+             d="m 74.989333,40.987818 q 3.017597,0 4.86289,1.497944 1.845293,1.497944 2.691957,4.23332 0.868374,2.735375 0.868374,6.49109 0,3.560331 -1.042048,6.360834 -1.042048,2.778795 -3.017598,4.385286 -1.975549,1.584781 -4.797762,1.584781 -3.364947,0 -5.470752,-2.409736 V 73.703782 L 62.224245,74.42019 V 41.747644 h 6.078613 l 0.303931,2.583411 q 1.411106,-1.801875 3.082725,-2.561701 1.671619,-0.781536 3.299819,-0.781536 z m -2.127515,5.058274 q -1.194013,0 -2.105805,0.716408 -0.911792,0.716408 -1.671619,1.95384 v 9.725781 q 0.716408,1.063757 1.497944,1.563072 0.803245,0.499315 1.888712,0.499315 1.823584,0 2.843923,-1.64991 1.020338,-1.671618 1.020338,-5.557589 0,-2.865632 -0.412477,-4.428703 -0.412477,-1.584782 -1.194013,-2.192643 -0.781536,-0.629571 -1.867003,-0.629571 z"
+             style="font-weight:bold;font-size:42.3332px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';stroke-width:1.05833"
+             id="path10970" />
+        </g>
+        <path
+           d="m 96.663373,65.758639 v -30.19386 h 5.600997 v 30.19386 z m 17.389167,-8.72715 -14.588667,13.13415 -14.588677,-13.13415 3.864263,-4.49383 3.29982,3.03931 c 0.95521,0.882839 1.81635,1.73674 2.58341,2.5617 0.78153,0.83943 1.461764,1.72227 2.040684,2.64854 h 5.600997 c 0.57892,-0.92627 1.25191,-1.80911 2.01897,-2.64854 0.78154,-0.82496 1.64991,-1.67886 2.60512,-2.5617 l 3.29982,-3.03931 z"
+           style="font-weight:bold;font-size:42.3332px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';stroke-width:1.05833"
+           id="path10974"
+           sodipodi:nodetypes="ccccccccccccccccc" />
+        <path
+           d="m 134.52953,29.069394 v 41.074057 h -13.37295 v -5.123402 h 6.90357 V 34.192797 h -6.90357 v -5.123403 z"
+           style="font-weight:bold;font-size:42.3332px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';stroke-width:1.05833"
+           id="path10976" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:21.6144px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.540361"
+         x="40.075581"
+         y="109.65378"
+         id="text12226"
+         inkscape:export-filename="/Users/vincent/Desktop/hiccdown-logo-black.png"
+         inkscape:export-xdpi="176.59753"
+         inkscape:export-ydpi="176.59753"><tspan
+           sodipodi:role="line"
+           id="tspan12224"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.540361"
+           x="40.075581"
+           y="109.65378">Hiccdown</tspan></text>
+    </g>
+  </g>
+</svg>
