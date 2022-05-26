@@ -1,6 +1,6 @@
 (ns hiccdown.editor.component.editor
   (:require [reagent.core :as r]
-            [hiccdown.new-core :as hd]))
+            [hiccdown.core :as hd]))
 
 (defonce edited-text (r/atom "
 # Header 1
@@ -59,7 +59,7 @@ Things to do in this editor:
 
 (defn markdown-output []
   [:div.h-full.overflow-auto
-   (try (-> @edited-text hd/markdown->ast hd/ast->spaced-hiccup)
+   (try (-> @edited-text hd/markdown->ast hd/ast->hiccup)
         (catch js/Error e "[WIP]: Input currently not handled."))])
 
 (defn editor []
